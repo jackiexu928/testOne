@@ -18,17 +18,17 @@ public class SuperLotto {
     public static final List<Integer> section6 = Arrays.asList(26, 27, 28, 29, 30);
     public static final List<Integer> section7 = Arrays.asList(31, 32, 33, 34, 35);
 
-    public static final List<Integer> last1 = Arrays.asList(7, 9, 13, 14, 33);
-    public static final List<Integer> last2 = Arrays.asList(1, 4, 18, 24, 28);
-    public static final List<Integer> last3 = Arrays.asList(6, 22, 28, 29, 33);
-    public static final List<Integer> last4 = Arrays.asList(16, 18, 24, 25, 27);
-    public static final List<Integer> last5 = Arrays.asList(10, 12, 15, 17, 19);
+    public static final List<Integer> last1 = Arrays.asList(1, 12, 18, 26, 35);
+    public static final List<Integer> last2 = Arrays.asList(5, 11, 16, 18, 27);
+    public static final List<Integer> last3 = Arrays.asList(6, 16, 26, 33, 35);
+    public static final List<Integer> last4 = Arrays.asList(3, 9, 21, 28, 30);
+    public static final List<Integer> last5 = Arrays.asList(1, 3, 5, 7, 18);
 
-    public static final List<Integer> lastBlue1 = Arrays.asList(2, 4);
-    public static final List<Integer> lastBlue2 = Arrays.asList(2, 3);
-    public static final List<Integer> lastBlue3 = Arrays.asList(2, 7);
-    public static final List<Integer> lastBlue4 = Arrays.asList(2, 7);
-    public static final List<Integer> lastBlue5 = Arrays.asList(2, 3);
+    public static final List<Integer> lastBlue1 = Arrays.asList(6, 12);
+    public static final List<Integer> lastBlue2 = Arrays.asList(7, 12);
+    public static final List<Integer> lastBlue3 = Arrays.asList(4, 8);
+    public static final List<Integer> lastBlue4 = Arrays.asList(1, 12);
+    public static final List<Integer> lastBlue5 = Arrays.asList(8, 9);
 
 
     public static final int red = 1;

@@ -19,7 +19,19 @@ public class RedBall {
      */
     public static List<String> getDoubleColorBallRedBall(){
         List<String> redBall = new ArrayList<>();
+        //----19039----
+        redBall.add("1,12,18,26,35");
+        redBall.add("5,11,16,18,27");
+
+        redBall.add("6,16,26,33,35");
+        redBall.add("3,9,21,28,30");
+        redBall.add("1,3,5,7,18");
+        redBall.add("8,12,15,27,30");
+        redBall.add("1,2,4,16,24");
+
         //----19030-----
+        redBall.add("1,4,7,11,30");
+        redBall.add("3,8,21,26,33");
         redBall.add("7,9,13,14,33");
         redBall.add("1,4,18,24,28");
         redBall.add("6,22,28,29,33");
