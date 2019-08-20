@@ -19,7 +19,53 @@ public class RedBall {
      */
     public static List<String> getDoubleColorBallRedBall(){
         List<String> redBall = new ArrayList<>();
-        //----19039----
+        //----19077----
+        redBall.add("1,15,17,21,33");
+        redBall.add("1,6,11,23,29");
+        redBall.add("5,6,7,11,16");
+        redBall.add("8,9,13,14,34");
+        redBall.add("4,11,19,20,24");
+        //----19072----
+        redBall.add("2,4,6,9,18");
+        redBall.add("7,13,14,15,22");
+        redBall.add("2,13,15,22,34");
+        redBall.add("8,22,23,33,34");
+        redBall.add("4,5,8,17,27");
+
+        //----19067----
+        redBall.add("3,8,11,15,16");
+        redBall.add("4,10,11,18,31");
+        redBall.add("3,8,10,23,27");
+        redBall.add("7,8,13,19,29");
+        redBall.add("5,8,15,18,21");
+
+        redBall.add("5,16,23,25,28");
+        redBall.add("1,2,13,14,26");
+        redBall.add("1,11,12,18,21");
+        redBall.add("7,8,15,27,32");
+        redBall.add("3,10,13,14,32");
+
+        redBall.add("8,14,16,34,35");
+        redBall.add("1,7,10,12,23");
+        redBall.add("2,4,6,19,22");
+        redBall.add("2,18,23,27,30");
+        redBall.add("1,11,19,26,35");
+
+        redBall.add("4,10,15,20,24");
+        redBall.add("11,15,16,20,29");
+        redBall.add("4,15,16,20,35");
+        redBall.add("10,16,22,26,27");
+        redBall.add("6,10,16,29,33");
+
+        redBall.add("3,4,10,16,32");
+        redBall.add("2,8,14,15,35");
+        redBall.add("1,4,16,19,33");
+        redBall.add("3,6,10,12,31");
+        redBall.add("2,6,7,12,15");
+
+        redBall.add("4,10,13,28,33");
+        redBall.add("12,19,20,22,28");
+        redBall.add("1,3,31,32,34");
         redBall.add("1,12,18,26,35");
         redBall.add("5,11,16,18,27");
 
